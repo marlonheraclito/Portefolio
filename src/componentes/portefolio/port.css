@@ -1,0 +1,47 @@
+.port {
+    margin-top: 150px;
+    margin-bottom: 100px;
+   
+}
+
+.port h2 {
+    text-align: center;
+}
+
+
+.por {
+    display: flex;
+    margin-top: 30px;
+   
+}
+
+
+.po {
+   padding: 5px; 
+}
+
+.po p {
+    text-align: center;
+}
+
+ #des {
+    text-align: justify;
+    font-size: 14px;
+}
+
+.po img{
+    width: 220px;
+    height: 350px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+
+}
+
+.port a {
+    color: #000;
+}
+
+.fun p {
+    text-align: justify;
+}
